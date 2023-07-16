@@ -15,7 +15,7 @@ public partial class MainPage : ContentPage
 			return;
 
 		await Shell.Current.GoToAsync(nameof(DetailsPage), true, new Dictionary<string, object>
-		{ { "Monkey", monkey } });
+		{ { "Monkeye", monkey } });
     }
 }
 
