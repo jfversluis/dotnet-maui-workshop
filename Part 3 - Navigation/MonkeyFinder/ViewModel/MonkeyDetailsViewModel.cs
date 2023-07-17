@@ -1,6 +1,6 @@
 ﻿namespace MonkeyFinder.ViewModel;
 
-[QueryProperty(nameof(Monkey), "Monkeye")]
+[QueryProperty(nameof(Monkey), "Monkey")]
 public partial class MonkeyDetailsViewModel : BaseViewModel
 {
 
